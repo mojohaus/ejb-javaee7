@@ -11,6 +11,7 @@
       <directory>src/main/resources</directory>
       <includes>
         <include>**/*.MF</include>
+        <include>**/*.xml</include>
       </includes>
     </fileSet>
     <fileSet filtered="true" encoding="UTF-8">
